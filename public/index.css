@@ -1,1 +1,30 @@
 /* Styles */
+
+body{
+    margin: 20px;
+}
+
+.track{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 4px;
+}
+
+.file-text{
+    float: left;
+    display: flex;
+
+}
+
+.player{
+    display: flex;
+    float: right;
+}
+
+@media (max-width:800px){
+    .track{
+        
+    }
+
+}
