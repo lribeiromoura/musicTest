@@ -7,6 +7,8 @@ Coloque alguns arquivos de musica no diretório "tracks".
 ```
 npm install
 
+npm install express-file upload
+
 npm start
 ```
 
